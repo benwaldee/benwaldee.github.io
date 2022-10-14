@@ -1249,6 +1249,8 @@ button {
 	filter: brightness(100%);
 }
 
+
+
 /* BG */
 
 #bg {
@@ -1720,10 +1722,6 @@ body.is-preload #header .content .inner {
 	opacity: 1;
 }
 
-.fa-anchor {
-	align-self: center;
-	justify-content: center;
-}
 
 
 #main article .close {
