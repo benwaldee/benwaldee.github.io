@@ -1452,6 +1452,9 @@ body.is-preload #bg:before {
 
 #header .logo .icon:before {
 	font-size: 2rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 #header .content {
@@ -1596,10 +1599,16 @@ body.is-preload #header .content .inner {
 		width: 4.75rem;
 		height: 4.75rem;
 		line-height: 4.75rem;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
 
 	#header .logo .icon:before {
 		font-size: 1.75rem;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
 
 	#header .content .inner {
